@@ -14,7 +14,7 @@ This guide will walk you through creating a Forge server. This server will suppo
 ## Steps
 1. Head over to the [official website](https://files.minecraftforge.net/) and find the version of Forge that you want to use.
 2. Download the installer for the version of Forge that you want to use.
-:::note
+:::info
 You may get sent to an AdFoc page, just wait a few seconds and click "Skip" in the top right corner.
 :::
 3. Create an empty folder on your computer in a place where you can easily access it.
@@ -29,7 +29,7 @@ You may get sent to an AdFoc page, just wait a few seconds and click "Skip" in t
 java -Xmx5G -Xms5G -jar forge.jar nogui
 ```
 
-:::note
+:::info
 This code will allocate 5GB of RAM to the server. If you have more RAM available, you can increase the `-Xmx` and `-Xms` values.
 :::
 

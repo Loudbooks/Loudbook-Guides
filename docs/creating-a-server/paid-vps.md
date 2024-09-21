@@ -17,6 +17,6 @@ Virtual Private Servers (VPS) are a great way to host a server. They are more re
 | [Ionos](https://www.ionos.com/servers/vps) | Average | Average | Great |
 
 <br />
-:::tip
+:::info
 Customer service information is based off of TrustPilot reviews. Please do your own research before purchasing a VPS.
 :::
