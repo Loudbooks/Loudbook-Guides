@@ -9,7 +9,7 @@ This guide will walk you through how to host a Fabric server that will support F
 - A computer that will be on when you or your friends want to play
 - A good internet connection
 - A basic understanding of networking
-- At least 5GB of RAM free at all times
+- At least 5GB or more of RAM free at all times
 
 ## Steps
 1. Download the server software from the [official website](https://fabricmc.net/use/server/).

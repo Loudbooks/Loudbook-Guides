@@ -9,7 +9,7 @@ This guide will walk you through creating a Forge server. This server will suppo
 - A computer that will be on when you or your friends want to play
 - A good internet connection
 - A basic understanding of networking
-- At least 5GB or mode of RAM free at all times
+- At least 5GB or more of RAM free at all times
 
 ## Steps
 1. Head over to the [official website](https://files.minecraftforge.net/) and find the version of Forge that you want to use.
