@@ -21,6 +21,10 @@ This guide will show you how to create a PaperMC server. PaperMC is a high-perfo
 7. Share your IP address with your friends. You can find your IP address by searching "what is my IP" on Google.
 8. Have your friends open Minecraft and click on "Multiplayer". Then click on "Add Server" and enter your IP address.
 
+:::info
+In order for people outside your network to connect to your server, you will need to port forward your router. You can find a guide on how to do this [here](https://portforward.com/how-to-port-forward/).
+:::
+
 ## Tips
 - Make sure your computer is powerful enough to run the server
 - Keep your server software up to date
