@@ -52,6 +52,10 @@ const config: Config = {
       ],
     },
 
+    prism: {
+      additionalLanguages: ['powershell', 'bash', 'batch'],
+    },
+
     colorMode: {
       defaultMode: 'dark',
     },
