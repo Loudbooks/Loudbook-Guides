@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Loudbook\'s Guides',
   tagline: 'Yeah. I know. MinecraftHopper exists. I get it.',
-  // favicon: 'img/favicon.ico',
+  favicon: 'img/icon.svg',
 
   url: 'https://mcd.loudbook.dev',
   baseUrl: '/',
