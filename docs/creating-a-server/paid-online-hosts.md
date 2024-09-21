@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Paid Online Hosts
+# Online Hosts
 :::tip 
 This is the option I would recommend for beginners. These hosts will privide you with a seamless and easy experience to setting up your server to play with friends.
 :::

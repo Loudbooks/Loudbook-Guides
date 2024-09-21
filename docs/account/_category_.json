@@ -1,8 +1,3 @@
 {
-  "label": "Account Management",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Help articles for account issues and management."
-  }
+  "label": "Account"
 }

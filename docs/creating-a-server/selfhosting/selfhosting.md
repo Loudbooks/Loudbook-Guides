@@ -3,7 +3,7 @@ slug: /creating-a-server/selfhosting
 sidebar_position: 2
 ---
 
-# Free Self Hosting
+# Self Hosting
 :::warning
 Self hosting does take steps to set up, however the end result is a quality server that is free. If you are willing to put in the time and effort, this is a great option.
 :::

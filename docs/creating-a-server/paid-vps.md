@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Paid VPS
+# Virtual Private Servers
 :::warning
 Virtual Private Servers are not to be used by beginners. They are significantly more expensive than shared hosting and require a lot more technical knowledge to set up and maintain.
 :::
