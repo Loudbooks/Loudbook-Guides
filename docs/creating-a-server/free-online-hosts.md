@@ -8,7 +8,7 @@ Free hosts are known for being unreliable, slow, and insecure. They are not reco
 :::
 
 :::warning
-Aternos is known for openly supporting piracy and have been known to have security issues. They are one of the worst hosts you could choose. They will not be included in this list.
+Aternos is known for openly supporting piracy and have been known to have security issues. They will not be included in this list.
 :::
 
 These hosts are going to be the lowest quality, but they will cost you no money. They are the best for hosting a server you want to be free, but not reliable, performant, or secure.
