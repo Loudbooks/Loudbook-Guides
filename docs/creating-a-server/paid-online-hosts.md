@@ -11,7 +11,7 @@ These hosts are going to be high quality, however they come with a price. They a
 | Host | Price | Quality | Customer Service |
 | ---- | ----- | ------- | ---------------- |
 | [Bloomhost](https://bloom.host/) | Above Average | Above Average | Excellent |
-| [Wepwawet](https://wepwawet.com/) | Average | Above Average | Excellent |
+| [Wepwawet](https://wepwawet.net/) | Average | Above Average | Excellent |
 | [PebbleHost](https://pebblehost.com/) | Average | Average | Great |
 | [Apex Hosting](https://apexminecrafthosting.com/) | Average | Average | Great |
 
@@ -19,7 +19,7 @@ These hosts are going to be high quality, however they come with a price. They a
 ## [Bloomhost](https://bloom.host/)
 Bloomhost is a high-quality host that offers a variety of services. They offer a variety of services, including Minecraft hosting, VPS hosting, and web hosting. They have a variety of plans to choose from, so you can find the one that best fits your needs. This host is known for being on the pricier side, however they use high quality hardware and have excellent customer service.
 
-## [Wepwawet](https://wepwawet.com/)
+## [Wepwawet](https://wepwawet.net/)
 Wepwawet has great prices, and great hardware. They also have amazing reviews and customer service. They offer a variety of services, including Minecraft hosting, VPS hosting, and web hosting. They have a variety of plans to choose from, so you can find the one that best fits your needs.
 
 ## [PebbleHost](https://pebblehost.com/)
