@@ -85,7 +85,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Loudbooks/MCGuides',
+              href: 'https://github.com/Loudbooks/Loudbook-Guides',
             },
           ],
         },
