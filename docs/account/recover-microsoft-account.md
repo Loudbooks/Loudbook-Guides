@@ -5,9 +5,9 @@ The only way to recover a Microsoft account is by contacting official support. T
 2. Head over to the [official Microsoft support page](https://support.microsoft.com/en-us/contactus/).
 3. Click the "Contact us" button.
 4. Select the following options:
-   - What are you having trouble with?: Account & Profile
-   - What's the issue?: I forgot my user name or Email
-   - Describe your issue: How do I recover my account?
+   - `What are you having trouble with?`: Account & Profile
+   - `What's the issue?`: I forgot my user name or Email
+   - `Describe your issue`: How do I recover my account?
 5. Select "See Contact Options".
 6. Select "Skip" until you get to the "Last Step" page.
 7. Select "Request a call".

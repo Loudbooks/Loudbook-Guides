@@ -27,6 +27,7 @@ You may get sent to an AdFoc page, just wait a few seconds and click "Skip" in t
 10. Open the file and paste the following code:
 ```bash
 java -Xmx5G -Xms5G -jar forge.jar nogui
+pause
 ```
 
 :::info

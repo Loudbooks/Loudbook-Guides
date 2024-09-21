@@ -19,6 +19,7 @@ This guide will walk you through how to host a Fabric server that will support F
 4. Open the file and paste the following code:
 ```bash
 java -Xmx5G -Xms5G -jar fabric-server-launch.jar nogui
+pause
 ```
 :::info
 This code will allocate 5GB of RAM to the server. If you have more RAM available, you can increase the `-Xmx` and `-Xms` values.
