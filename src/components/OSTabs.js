@@ -5,9 +5,10 @@ const OSTabs = ({ children, showLinux = true }) => {
   const [activeOS, setActiveOS] = useState('mac');
 
   useEffect(() => {
-    const platform = navigator.userAgentData.platform
-    if (platform.includes('win')) setActiveOS('windows');
-    else if (platform.includes('linux') && showLinux) setActiveOS('linux');
+    const userAgent = navigator.userAgent;
+
+    if (userAgent.includes('win')) setActiveOS('windows');
+    else if (userAgent.includes('linux') && showLinux) setActiveOS('linux');
     else setActiveOS('mac');
   }, [showLinux]);
 
