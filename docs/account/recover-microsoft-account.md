@@ -2,7 +2,7 @@
 The only way to recover a Microsoft account is by contacting official support. This guide will walk you through how to do so.
 
 1. Create a new Microsoft account under a different email address. This will be used only to contact support.
-2. Head over to the [official Microsoft support page](https://support.microsoft.com/en-us/contactus/).
+2. Head over to the [official Microsoft support page](https://support.xbox.com/en-us/contact-us/emerald).
 3. Click the "Contact us" button.
 4. Select the following options:
    - `What are you having trouble with?`: Account & Profile
