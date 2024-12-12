@@ -1,6 +1,6 @@
 # ReportBook
 
-ReportBook is a process used to diagnose a variety of possible issues on your device. You can find an example [here](https://pastebook.dev/pastes/millie-shadow-bard-milkchocolate?inspect).
+ReportBook is a process used to diagnose a variety of possible issues on your device. You can find an example [here](https://pastebook.dev/p/jeUbS).
 
 This program was designed with the intention of being used by software support teams, but is available to anyone who wishes to use it. Source code can be viewed on [GitHub](https://github.com/Loudbooks/ReportBook) should you be interested in how it works.
 
